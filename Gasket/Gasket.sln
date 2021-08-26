@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31529.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gasket", "Gasket\Gasket.csproj", "{4D037971-B3F2-47ED-A4C1-4A5AE0EE6C04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D037971-B3F2-47ED-A4C1-4A5AE0EE6C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D037971-B3F2-47ED-A4C1-4A5AE0EE6C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D037971-B3F2-47ED-A4C1-4A5AE0EE6C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D037971-B3F2-47ED-A4C1-4A5AE0EE6C04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46EA638-5D52-4FFE-9D03-BB7F7D968F9D}
+	EndGlobalSection
+EndGlobal

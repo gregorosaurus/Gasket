@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Analytics.Synapse.Artifacts" Version="1.0.0-preview.10" />
+    <PackageReference Include="Azure.Identity" Version="1.4.1" />
+    <PackageReference Include="Azure.ResourceManager.Resources" Version="1.0.0-preview.1" />
+    <PackageReference Include="CommandLineParser" Version="2.8.0" />
+    <PackageReference Include="CsvHelper" Version="27.1.1" />
+    <PackageReference Include="Microsoft.Azure.Common" Version="2.2.1" />
+    <PackageReference Include="Microsoft.Azure.Management.Subscription" Version="1.1.5" />
+    <PackageReference Include="Microsoft.Azure.Management.Synapse" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>
