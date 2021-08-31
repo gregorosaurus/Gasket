@@ -41,7 +41,7 @@ namespace Gasket
             var selectedSubscription = SelectSubscription(availabeSubscriptions);
             Console.WriteLine($"Working subscription set: {selectedSubscription.DisplayName}");
 
-            var searchArea = SelectSearchArea();
+            var searchArea = PipelineType.Synapse; //temp until ADF support is added. SelectSearchArea();
 
             if(searchArea == PipelineType.Synapse)
             {
