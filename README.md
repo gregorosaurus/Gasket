@@ -1,7 +1,7 @@
 # Gasket
 
 Gasket is used to output activity/pipeline run data including billing time, data transfer time, and pricing (in USD) for either Synapse 
-workspaces or Azure Data Factories.  It is build with dotnet core, which allows it to be used on Windows, macOS, or Linux.
+workspaces or Azure Data Factories.  It is built with dotnet core, which allows it to be used on Windows, macOS, or Linux.
 
 ## Operation
 
@@ -16,7 +16,7 @@ Gasket is a simple command line interface program.  It will prompt you for input
 ## Building and Running
 
 1. Clone the git repo or download the source files through github. 
-2. Build ```dotnet build src\Gasket.sln```
+2. Build: ```dotnet build src\Gasket.sln```
 3. Run: ```dotnet src\Gasket\bin\Debug\net5.0\Gasket.dll```
 
 ## Sample Report
